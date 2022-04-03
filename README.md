@@ -21,7 +21,28 @@ The registry editor will come up with a warning asking if you want to install th
 The message looks similar to this.
 Don't worry though, there's no malware on this repository.
 After the hive has finished installing, click OK.
+Next, we need to add iGet to PATH.
+Doing so will let iGet run anywhere, so you don't need to ***cd*** into the install directory.
+Open the start menu, and type in "path".
+If it comes up with "Edit environment variable", click on it.
+Then, at the top, click Path then Edit.
+On the first EMPTY line, copy "C:\Program Files (x86)\Tristan Carpenter\iGetPM" WITH the speechmarks.
+Click Done.
+
 Eureka! iGet is installed!
+Run iGet by typing "iGet" in the Command Prompt.
+
+## What can you do with iGet?
+Currently, iGet is a COMPLETELY experimental project.
+It only has ONE command, and relies on Microsoft Edge.
+That command is "OperaBrowser" (cAsE SeNsItIvE!), and it downloads Opera.
+Every single command tells Microsoft Edge to visit a MediaFire page that automatically downloads your file without any user input.
+Every downloaded file goes automatically to your "Downloads" folder.
+
+###### REMEMBER!
+iGet is still in Alpha pre-release.
+That means that the package manager can have unexpected bug splats.
+
 
 
 # Help and support
